@@ -1,5 +1,16 @@
 <resources>
     <string name="app_name">homework_new</string>
-
     <string name="chat_room_title">我和%1$s的对话</string>
+    <string name="exercise1">hello</string>
+    <string name="ex2">CHECK</string>
+    <string name="ex2_info">Click to see total counts--> </string>
+    <string name="fans">粉丝</string>
+    <string name="message">消息</string>
+    <string name="mentionme">@我的</string>
+    <string name="comments">评论</string>
+    <string name="bottom1">首页</string>
+    <string name="bottom2">关注</string>
+    <string name="bottom3">消息</string>
+    <string name="bottom4">我</string>
+    <string name="display">Click</string>
 </resources>
